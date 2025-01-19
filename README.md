@@ -43,4 +43,4 @@ Once booted, allow the windows to install. this could take a while. If you are a
 
 Your Windows XP VM should be up and running.
 
-<img src="">
+<img src="https://github.com/Corporate101/Installing-Windows-Vista-on-virtual-box/blob/main/Vista%20Running.png">
