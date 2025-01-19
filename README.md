@@ -35,7 +35,7 @@ Set a size (minimum 20GB for Vista, but 40GB+ is advisable for pen testing tools
 <h2>Start the VM</h2>
 Click "Start" to boot your Windows Vista VM.
 
-<img src="https://github.com/Corporate101/Setting-up-a-Virtual-home-Lab/blob/main/Folder/Start%20MTSP.png">
+<img src="https://github.com/Corporate101/Installing-Windows-XP-on-virtual-box/blob/main/Start%20you%20WV.png">
 
 Once booted, allow the windows to install. this could take a while. If you are asked for a product key, use this " 4D2XH-PRBMM-8Q22B-K8BM3-MRW4W" that is if you installed the Windows Vista Business. Else, you can <a href="https://www.windowsafg.com/keys.html">click here</a> to fins the product key of the paricular windows vista OS you want to install.
 
