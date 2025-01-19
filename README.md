@@ -11,7 +11,7 @@ Open VirtualBox and click on "New".
 
 <img src="https://github.com/Corporate101/Setting-up-a-Virtual-home-Lab/blob/main/Folder/New.jpg">
 
-<h2>Name and OS</h2>
+<h2>Name your OS</h2>
 Name your VM (e.g., "Vista_PenTest"), set the Type to "Microsoft Windows", and the Version to "Windows Vista (32-bit or 64-bit)" depending on your ISO.
 
 <img src="https://github.com/Corporate101/Installing-Windows-XP-on-virtual-box/blob/main/Nmae%20your%20OS.V.png">
